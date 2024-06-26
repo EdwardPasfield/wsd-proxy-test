@@ -18,6 +18,7 @@
     ```bash
     python  -m unittest test_main.py
     ```
+  * In terms of the test coverage I realised I was spending a bit too much time on this after figuring out async testing which was a bit annoying! With more time the test coverage would have been a bit better I hope that is understandable! 
 
 ## Note
   * If you try running make twice it will say the port is already in use and you will need to go and shut it down in docker. 
